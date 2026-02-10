@@ -103,10 +103,16 @@ Learn how Stellar is structured and how developers interact with the network.
 3. [Stellar Stack Architecture](https://youtu.be/nB0RxPo4MPg)  
 4. [Stellar Networks (Public vs Testnet)](https://youtu.be/JutwmhgRpE8)  
 5. [Stellar Core](https://youtu.be/flAFeP2HXTI)  
-6. [Horizon API](https://youtu.be/8AEFF6MYLo8)  
+6. [Horizon API](https://youtu.be/8AEFF6MYLo8)
+7. [RPC Overview](https://youtu.be/QBcA0s-DVT8?si=uq2ynRqO8dq3LCF0)
+8. [Developing with SDKs](https://youtu.be/Hw6Zzyw2uns?si=sBwh4Cg4ukM4DLcx)
+9. [XLM, Fees and Base Reserves](https://youtu.be/8phJ7iBUYU4?si=nIro7AepEbZmqfWC)
+10. [TestNet and FutureNet Resets](https://youtu.be/rcZUZamFNtU?si=CfweUid9Fvbbv0w8)
+11. [TestNet and FutureNet Best Practices](https://youtu.be/I-oA0vTquIs?si=8x-4qaBUF1xNKzh-)
+12. [Moving to Production](https://youtu.be/2Bvzb3HXpNQ?si=3WpAUTIWjoFi6t-s)
 
 **Outcome:**  
-You should understand how applications interact with Stellar.
+You should understand how developers interact with Stellar, manage networks, handle fees and reserves, and safely move applications from test environments to production.
 
 ---
 
